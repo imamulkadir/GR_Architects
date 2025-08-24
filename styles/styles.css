@@ -94,7 +94,8 @@ main > section {
   font-size: 3rem;
 }
 
-.nav-links {
+.nav-links .nav-item .nav-link:hover {
+  color: #ff900e;
 }
 
 .nav-item {
